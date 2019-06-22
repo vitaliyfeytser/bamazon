@@ -5,7 +5,7 @@ Bamazon is an Amazon-like storefront with the MySQL as the backbone of the datab
 # How does it work?
 Pretty simple: user will call bamazonCustomer.js app from the command line and will choose which items they are interested in purchasing.  When the user calls the app, the current inventory will populate and provide user with necessary details such as item IDs for corresponding products:
 
-![customerView](https://github.com/donotunplug/Bamazon/blob/master/images/customerView.png)
+![customerView](https://github.com/vitaliyfeytser/bamazon/blob/master/images/bamazon.png)
 
 
 
